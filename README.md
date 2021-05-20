@@ -1,3 +1,3 @@
-# pagina-web
+# cv
 Página Web Personal
-https://roxanagarrido.github.io/pagina-web/
+https://roxanagarrido.github.io/cv/
